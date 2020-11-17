@@ -1,0 +1,65 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+    margin: 0px;
+    background-color: rgb(209, 209, 209);
+    width: 100%;
+}
+
+h1 {
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 2px solid;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-color: rgb(177, 177, 177);
+    background-color: rgb(177, 177, 177);
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    background-image: url("https://seeklogo.com/images/B/bike-logo-60D3C444D4-seeklogo.com.png");
+    background-repeat: no-repeat;
+    background-size: 70px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 0px solid;
+    font-style: italic;
+    text-align: center;
+}
+
+h3 {
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 2px solid;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-color: rgb(177, 177, 177);
+    background-color: rgb(177, 177, 177);
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+hr {
+    width: 99%;
+    border-top: 3px dashed black;
+}
+
+table {
+    width: 100%;
+}
+
+footer {
+    width: 100%;
+    background-color: black;
+    color: cornsilk;
+    font-size: 16px;
+    text-align: center;
+}
+
+p {
+    margin-left: 30px;
+}
