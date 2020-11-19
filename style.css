@@ -3,7 +3,8 @@ body {
     margin: 2em;
     margin: 0px;
     background-color: rgb(209, 209, 209);
-    width: 100%;
+    max-width: 800px;
+    margin: auto;
 }
 
 h1 {
